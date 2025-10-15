@@ -1,0 +1,51 @@
+#form-box{
+	background-color:beige;
+	padding:60px ;
+	border-radius:40px ;
+	width:500px ;
+	margin:auto ;
+	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1) ;
+	border:1px dotted dimgray ;
+	image src:url(https://storage.googleapis.com/oa_disk001/obgreenhills/65/school_logo/1691567065-3230.jpg);
+}
+
+body{
+
+     background-image:url("https://img.freepik.com/free-vector/robots-pattern-design_1131-2.jpg");
+     background-size:cover;
+     Background background-repeat: no-repeat;
+}
+
+input[type="email"]{
+border-radius:20px ;
+font-size:25px ;
+width:100% ;
+}
+
+
+label{
+	font-size: 18px;
+	font-family: gill-sans;
+}
+
+input[type="password"]{
+	border-radius: 15px;
+	font-size: 25px;	
+	width: 100%;
+	text-align: center;
+}
+
+#rem {
+	font-size: 15px;
+	font-family: gill-sans;
+
+}
+
+
+
+.box2{
+	width: 620px;
+	height: 450px;
+	margin: auto ;
+	background-image: Linear-gradent(to right, blue, darkcyan);
+}
